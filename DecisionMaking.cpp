@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-Conditional statements are used to change the flow of program depending on the condition
+Conditional statements are used to change the flow of program depending on the condition.
 
 1. if statement
 if (condition) {
@@ -20,7 +20,29 @@ else {
 }
 if condition is true, block of if is executed. otherwise else block will be executed
 
-3. 
+3. if-else if-else statements
+if (condition) {
+    // code
+}
+else if (condition) {
+    // code
+}
+else {
+    // other code
+}
+
+4. Nested if 
+if (condition1) {
+    if (condition 2) {
+
+    }
+    else {
+
+    }
+}
+else {
+
+}
 */
 
 int main() {
