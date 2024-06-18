@@ -15,5 +15,7 @@ int main() {
 
     int age = 20;
     cout << num-- << endl; // Post-decrement
-    cout << num;
+    cout << num << endl;
+
+    cout << (5 << 1);
 }
