@@ -13,7 +13,6 @@ int main() {
     // when arrays are created, the array name contains the address of first memory address of the array
     // we can access each element of an array using an index
     // an index is an offset of that element from the starting of the array
-
     int brr[10] = {1, 2, 3};
     fill(brr, brr+10, 10); // syntax: fill(start_address, end_address, value)
     // indexes starts at 0 and ends at n - 1, where n is the size of an array
