@@ -16,11 +16,11 @@ int main() {
     // cout << (5 | 5) << endl;
     // cout << (5 | 1) << endl << endl;
 
-    // cout << "Another approach to check if number is odd or even" << endl;
-    // int n;
-    // cin >> n;
-    // if (n & 1) cout << "ODD";
-    // else cout << "EVEN";
+    cout << "Another approach to check if number is odd or even" << endl;
+    int n;
+    cin >> n;
+    if (n & 1) cout << "ODD";
+    else cout << "EVEN";
 
     // cout << ~(10) << endl;
 
